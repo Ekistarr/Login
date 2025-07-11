@@ -1,0 +1,29 @@
+body{
+  background-repeat:no-repeat;
+  background-size:520px 990px;
+  background-image:url("images (3).jpeg");
+  
+}
+.login-container{
+  margin:120px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:60vh;
+  color:white;
+  font-family:fantasy;
+}
+.login-container input[type="text"]{
+  border:solid;
+  border-radius:5px;
+}
+.login-container input[type="passoword"]{
+  border:solid;
+  border-radius:5px;
+}
+.login-container button{
+  border:solid;
+  background-color:black;
+  color:white;
+  border-radius:10px;
+}
